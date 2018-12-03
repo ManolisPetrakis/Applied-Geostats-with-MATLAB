@@ -8,12 +8,12 @@
 
 ## Περιεχόμενα
 
-* [Ανάγνωση και αποθήκευση δεδομένων, πρωταρχική στατιστική ανάλυση και γραφήματα](https://github.com/ManolisPetrakis/Applied-Geostats-with-MATLAB/blob/master/01%20Data%20wrangling/html/Data_wrangling_and_plotting.ipynb)
+* [Ανάγνωση και αποθήκευση δεδομένων, πρωταρχική στατιστική ανάλυση και γραφήματα](Data_wrangling_and_plotting.ipynb)
 
 ## Χρήση της MATLAB&reg; από Jupyter notebooks 
 
-__Τα επόμενα βήματα είναι προαιρετικά και αφορούν μονάχα εκείνους που θέλουν να καλούν τη MATLAB&reg; από το Jupyter notebooks.__ 
-Ο παρακάτω οδηγός προέρχεται από την σελίδα https://am111.readthedocs.io/en/latest/jmatlab_install.html.
+__Τα ακόλουθα βήματα είναι προαιρετικά και αφορούν μονάχα εκείνους που θέλουν να καλούν τη MATLAB&reg; από Jupyter notebooks.__ 
+Ο παρακάτω οδηγός βασίστηκε στη σελίδα https://am111.readthedocs.io/en/latest/jmatlab_install.html.
 
 Αν χρησιμοποιείτε Windows και Anaconda, ακολουθήστε τα παρακάτω βήματα:
 
