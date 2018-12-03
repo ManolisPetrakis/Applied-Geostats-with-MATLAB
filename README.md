@@ -8,7 +8,7 @@
 
 ## Περιεχόμενα
 
-* [Ανάγνωση και αποθήκευση δεδομένων, πρωταρχική στατιστική ανάλυση και γραφήματα](Applied-Geostats-with-MATLAB/01-Data-Wrangling-and-Plotting/MATLAB/Data_wrangling_and_plotting.ipynb)
+* [Ανάγνωση και αποθήκευση δεδομένων, πρωταρχική στατιστική ανάλυση και γραφήματα](01-Data-Wrangling-and-Plotting/MATLAB/Data_wrangling_and_plotting.ipynb)
 
 ## Χρήση της MATLAB&reg; από Jupyter notebooks 
 
